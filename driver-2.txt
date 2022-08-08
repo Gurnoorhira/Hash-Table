@@ -1,0 +1,104 @@
+Dump for current table: 
+[0] : 
+[1] : 
+[2] : 
+[3] : ATCAG (Location ID 2344)
+[4] : 
+[5] : 
+[6] : 
+[7] : 
+[8] : 
+[9] : 
+[10] : 
+[11] : 
+[12] : 
+[13] : 
+[14] : GGTCC (Location ID 5829)
+[15] : GAGCG (Location ID 1239)
+[16] : ATCAT (Location ID 2289)
+[17] : ATCAT (Location ID 8350)
+[18] : CTAAT (Location ID 8293)
+[19] : TAAGT (Location ID 1574)
+[20] : 
+[21] : 
+[22] : CTATC (Location ID 3102)
+[23] : CTATC (Location ID 6191)
+[24] : CGGAC (Location ID 1283)
+[25] : TAATA (Location ID 9285)
+[26] : CCAAG (Location ID 8512)
+[27] : TACCC (Location ID 5452)
+[28] : GCTAG (Location ID 7400)
+[29] : 
+[30] : 
+[31] : CGGAC (Location ID 4416)
+[32] : 
+[33] : 
+[34] : GTAGG (Location ID 8561)
+[35] : 
+[36] : 
+[37] : ATAGA (Location ID 7945)
+[38] : 
+[39] : GTATC (Location ID 8489)
+[40] : CCATA (Location ID 3443)
+[41] : CCCCA (Location ID 5491)
+[42] : 
+[43] : ATAGG (Location ID 4602)
+[44] : 
+[45] : ACACT (Location ID 9036)
+[46] : 
+[47] : 
+[48] : TGTCG (Location ID 2520)
+[49] : GAGAG (Location ID 8290)
+[50] : 
+[51] : GACTA (Location ID 8291)
+[52] : AATCC (Location ID 1044)
+[53] : 
+[54] : TCTGG (Location ID 1409)
+[55] : 
+[56] : 
+[57] : CAAAA (Location ID 9281)
+[58] : 
+[59] : 
+[60] : 
+[61] : 
+[62] : TGACG (Location ID 3700)
+[63] : 
+[64] : 
+[65] : 
+[66] : 
+[67] : TTATA (Location ID 2681)
+[68] : CGCCC (Location ID 7899)
+[69] : GTTCA (Location ID 9988)
+[70] : 
+[71] : CTACG (Location ID 3654)
+[72] : CCCGA (Location ID 8063)
+[73] : 
+[74] : 
+[75] : TACGT (Location ID 6648)
+[76] : CCCAA (Location ID 7859)
+[77] : CTCTA (Location ID 2159)
+[78] : AGGTC (Location ID 2828)
+[79] : 
+[80] : 
+[81] : TGTAA (Location ID 3052)
+[82] : GTAGG (Location ID 3810)
+[83] : TTGCC (Location ID 4416)
+[84] : 
+[85] : CGGCG (Location ID 1630)
+[86] : ATCCT (Location ID 3693)
+[87] : 
+[88] : GTACG (Location ID 2406)
+[89] : 
+[90] : 
+[91] : 
+[92] : 
+[93] : TGTAA (Location ID 6976)
+[94] : 
+[95] : 
+[96] : 
+[97] : CGCGA (Location ID 1653)
+[98] : TGTTA (Location ID 4932)
+[99] : TTCGA (Location ID 7159)
+[100] : CTAAA (Location ID 2366)
+Dump for old table: 
+All data points exist in the DnaDb!
